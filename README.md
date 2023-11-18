@@ -1,4 +1,4 @@
-Minimal ClojureScript API auth example.
+Minimal ClojureScript frontend auth example.
 
 `make watch` to run.
 
