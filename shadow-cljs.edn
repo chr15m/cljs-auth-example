@@ -1,5 +1,7 @@
 {:source-paths ["src"]
- :dependencies [[reagent "1.1.0"]]
+ :dependencies [[reagent "1.1.0"]
+                [funcool/promesa "11.0.678"]
+                [binaryage/devtools "1.0.7"]]
  :dev-http {8000 "public/"}
  :builds {:app {:target :browser
                 :output-dir "public/js"
